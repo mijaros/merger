@@ -1,0 +1,11 @@
+[packages]
+pygithub = "*"
+gitpython = "*"
+coloredlogs = "*"
+
+[dev-packages]
+ipython = "*"
+pipenv-setup = "*"
+
+[requires]
+python_version = "3"
