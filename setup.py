@@ -35,7 +35,7 @@ setup(
         "humanfriendly==8.2; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
         "idna==2.9; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "pygithub==1.51",
-        "pyjwt==1.7.1",
+        "pyjwt==2.4.0",
         "requests==2.23.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
         "smmap==3.0.4; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "urllib3==1.25.9; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
