@@ -26,7 +26,7 @@ setup(
     packages=find_packages(exclude=["contrib", "docs", "tests"]),
     python_requires=">=3.6, <4",
     install_requires=[
-        "certifi==2020.4.5.2",
+        "certifi==2022.12.7",
         "chardet==3.0.4",
         "coloredlogs==14.0",
         "deprecated==1.2.10; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
